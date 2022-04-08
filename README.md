@@ -1,6 +1,7 @@
 # Pirates Vix Technologies
 
-Website desenvolvido em puro HTML - CSS/SCSS - JS dos Pirates Vix, no repositório você pode encontrar recursos para um site simples e elegante.
+Website escrito em puro HTML|CSS/SCSS|JS para apresentação dos Pirates Vix.
+No repositório você pode encontrar recursos para um site simples e elegante.
 
 <br/>
 
@@ -10,24 +11,19 @@ Website desenvolvido em puro HTML - CSS/SCSS - JS dos Pirates Vix, no repositór
 Abaixo está a versão do site mais recente do Pirates Vix.
 <br/>
 
+#### Section 1
+
+<img width="800" height="400" src="https://raw.githubusercontent.com/piratesvix/community/main/assets/screenshot/website/website-piratesvix-v1.0.jpeg"></img>
+
+<br/>
+
+
 #### Menu Navbar
 
 <img width="800" height="400" src="https://raw.githubusercontent.com/piratesvix/community/main/assets/screenshot/website/website-piratesvix-v1.0-navbar.jpeg"></img>
 
 <br/>
 
-
-#### Section 1
-
-<img width="800" height="400" src="https://raw.githubusercontent.com/piratesvix/community/main/assets/screenshot/website/website-piratesvix-v1.0.jpeg"></img>
-
-<br/>
-
-#### Section 1
-
-<img width="800" height="400" src="https://raw.githubusercontent.com/piratesvix/community/main/assets/screenshot/website/website-piratesvix-v1.0.jpeg"></img>
-
-<br/>
 
 #### Section 2
 
